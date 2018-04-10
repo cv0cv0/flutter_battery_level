@@ -8,7 +8,7 @@ void main() => runApp(new App());
 class App extends StatelessWidget {
   @override
   Widget build(BuildContext context) => new MaterialApp(
-        title: 'batterylevel',
+        title: 'BatteryLevel',
         theme: new ThemeData(
           primarySwatch: Colors.blue,
         ),
